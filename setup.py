@@ -19,7 +19,7 @@ import os
 from distutils.cmd import Command
 
 version = '2.21.dev0'
-url = "https://github.com/makinacorpus/spynner"
+url = "https://github.com/kiorky/spynner"
 
 def read(rnames):
     setupdir =  os.path.dirname( os.path.abspath(__file__))

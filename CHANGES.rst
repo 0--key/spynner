@@ -3,12 +3,6 @@ CHANGELOG
 2.21 (unreleased)
 -----------------
 
-- Nothing changed yet.
-
-
-2.20 (2018-11-03)
------------------
-
 - support
 
 
