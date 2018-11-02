@@ -3,13 +3,7 @@ CHANGELOG
 2.20 (unreleased)
 -----------------
 
-- Nothing changed yet.
-
-
-2.19 (2014-07-19)
------------------
-
-- Nothing changed yet.
+- support
 
 
 2.18 (2014-07-19)
